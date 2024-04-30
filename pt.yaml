@@ -270,7 +270,7 @@ payload:
   - DOMAIN-SUFFIX,nzbs.in
   - DOMAIN-SUFFIX,omgwtfnzbs.me
   - DOMAIN-SUFFIX,flagcounter.com
-  - DOMAIN-KEYWORD,plex,DIRECT
+  - DOMAIN-KEYWORD,plex
   - DOMAIN-SUFFIX,16.ein.itsby.design
   - DOMAIN-SUFFIX,sorry.lw902.usbx.me
   - IP-CIDR,169.150.223.199/32
