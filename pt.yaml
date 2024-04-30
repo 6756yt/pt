@@ -271,4 +271,6 @@ payload:
   - DOMAIN-SUFFIX,omgwtfnzbs.me
   - DOMAIN-SUFFIX,flagcounter.com
   - DOMAIN-SUFFIX,16.ein.itsby.design
+  - DOMAIN-SUFFIX,sorry.lw902.usbx.me
   - IP-CIDR,169.150.223.199/32
+  - IP-CIDR,45.87.251.160/32
